@@ -1,0 +1,17 @@
+C:\Codes\Jasoos\App\bin\Debug\net6.0-windows\App.exe
+C:\Codes\Jasoos\App\bin\Debug\net6.0-windows\App.deps.json
+C:\Codes\Jasoos\App\bin\Debug\net6.0-windows\App.runtimeconfig.json
+C:\Codes\Jasoos\App\bin\Debug\net6.0-windows\App.dll
+C:\Codes\Jasoos\App\bin\Debug\net6.0-windows\App.pdb
+C:\Codes\Jasoos\App\obj\Debug\net6.0-windows\App.csproj.AssemblyReference.cache
+C:\Codes\Jasoos\App\obj\Debug\net6.0-windows\App.csproj.GenerateResource.cache
+C:\Codes\Jasoos\App\obj\Debug\net6.0-windows\App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\Jasoos\App\obj\Debug\net6.0-windows\App.AssemblyInfoInputs.cache
+C:\Codes\Jasoos\App\obj\Debug\net6.0-windows\App.AssemblyInfo.cs
+C:\Codes\Jasoos\App\obj\Debug\net6.0-windows\App.csproj.CoreCompileInputs.cache
+C:\Codes\Jasoos\App\obj\Debug\net6.0-windows\App.dll
+C:\Codes\Jasoos\App\obj\Debug\net6.0-windows\refint\App.dll
+C:\Codes\Jasoos\App\obj\Debug\net6.0-windows\App.pdb
+C:\Codes\Jasoos\App\obj\Debug\net6.0-windows\App.genruntimeconfig.cache
+C:\Codes\Jasoos\App\obj\Debug\net6.0-windows\ref\App.dll
+C:\Codes\Jasoos\App\obj\Debug\net6.0-windows\App.config.resources
